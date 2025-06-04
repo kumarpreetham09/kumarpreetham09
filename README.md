@@ -3,7 +3,7 @@
 
 
 ## 🌐 About Me:
-<h4>I'm passionate about learning new technologies and building projects that solve real-world problems. I enjoy working on everything from small scripts to full-stack applications, and I'm currently exploring areas like, machine learning and embedded systems. I'm always looking to grow my skills, contribute to open source, and connect with other developers. Drop me an email and we can talk about the political and economic state of the world right now</h4>
+<h4>I'm passionate about learning new technologies and building projects that solve real-world problems. I enjoy working on everything from small scripts to full-stack applications, and I'm currently exploring areas like, machine learning and embedded systems. I'm always looking to grow my skills, contribute to open source, and connect with other developers. Drop me an email and we can talk about the political and economic state of the world right now.</h4>
 
 
 ## 📌 Projects:
@@ -20,8 +20,8 @@
 
 ## 📱 Contact:
 <h3>Reach out to me through my email!</h3>
-<h4>📧Personal Email: kumarpreetham08@gmail.com</h4>
-<h4>🏫School Email: preetham003@e.ntu.edu.sg</h4>
+<h4>📧 Personal Email: kumarpreetham08@gmail.com</h4>
+<h4>🏫 School Email: preetham003@e.ntu.edu.sg</h4>
 <br>
 
 ## 🌐 Socials:
