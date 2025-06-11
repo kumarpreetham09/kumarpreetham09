@@ -7,8 +7,8 @@
 
 
 ## 📌 Projects:
-* Nasa API
 * Trip Guardian
+* NASA API Website
 * Student sorting algo
 * X-ray?
 
