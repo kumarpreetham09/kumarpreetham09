@@ -8,8 +8,8 @@
 
 ## 📌 Projects:
 * Trip Guardian
+* Student Sorting Algorithm
 * NASA API Website
-* Student sorting algo
 * Pneumonia Detection with Deep Learning
 
 ## 💻 Tech Stack:
