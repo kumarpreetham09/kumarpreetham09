@@ -7,6 +7,7 @@
 
 
 ## 📌 Projects:
+* ParkMate
 * Trip Guardian
 * Student Sorting Algorithm
 * NASA API Website
