@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham!</h1>
-<h3 align="center">Sophomore in NTU Pursuing a Degree in Computer Engineering</h3>
+<h3 align="center">Junior in NTU Pursuing a Degree in Computer Engineering</h3>
 
 
 ## 🌐 About Me:
