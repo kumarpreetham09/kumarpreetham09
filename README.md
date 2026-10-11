@@ -8,7 +8,6 @@
 
 ## 📌 Projects:
 * ParkMate
-* Trip Guardian
 * Student Sorting Algorithm
 * NASA API Website
 * Pneumonia Detection with Deep Learning
